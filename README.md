@@ -3,6 +3,8 @@
 ## Project Overview
 This project is about creating a database system to manage different parts of the Commonwealth Games. The goal is to make everything run more smoothly, provide a better experience for users, and give quick access to information for everyone involved, like athletes, the public, venue managers, and the organizing committee.
 
+![image](https://github.com/user-attachments/assets/503d7089-e738-49f9-904a-9c4a50dcdfc0)
+
 ### Main Objectives
 - **Athlete Registration**: To make the registration process for athletes secure and easy.
 - **Event Scheduling**: To create a detailed event schedule with real-time updates.
